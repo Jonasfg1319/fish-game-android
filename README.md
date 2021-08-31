@@ -17,4 +17,4 @@ O game é bem simples, o objetivo do peixinho é comer a ração para ganhar pon
 
 ## Como rodar
 
-Basta abrir o executavel FishXD.apk em seu celular ou baixar a pasta do projeto em seu computador e executar uma scene( em /scenes ).
+Basta abrir o executavel FishXD.apk em seu celular ou baixar a pasta do projeto em seu computador e executar o arquivo start.unity em Assets/Scenes.
