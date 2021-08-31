@@ -8,4 +8,4 @@ O game é bem simples, o objetivo do peixinho é comer a ração e ir desviando 
 
 ## Como rodar
 
-Basta abrir o executavel Fish.apk em seu celular
+Basta abrir o executavel FishXD.apk em seu celular
