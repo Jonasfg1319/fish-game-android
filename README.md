@@ -15,7 +15,7 @@ O game é bem simples, o objetivo do peixinho é comer a ração para ganhar pon
 ![gameplay](https://user-images.githubusercontent.com/24599447/131467426-ac4672c3-f0a7-4a5f-bfea-15c88b363db0.jpg)
 
 
-## Como rodar
+## Como rodar?
 
 Basta abrir o executavel FishXD.apk em seu celular.
 
